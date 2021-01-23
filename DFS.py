@@ -357,7 +357,4 @@ label4 = frame.add_label(" ")
 
 input_goal = frame.add_input("Goal Node", input_goal_handler, 80)
 label5 = frame.add_label(" ")
-
-
-# Program starts here
-frame.start()
+eae721b57
